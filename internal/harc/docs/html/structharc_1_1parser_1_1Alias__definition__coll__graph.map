@@ -1,0 +1,12 @@
+<map id="harc::parser::Alias_definition" name="harc::parser::Alias_definition">
+<area shape="rect" id="node1" title=" " alt="" coords="1580,122,1708,163"/>
+<area shape="rect" id="node2" href="$structharc_1_1parser_1_1Source__body.html" title=" " alt="" coords="371,5,545,32"/>
+<area shape="rect" id="node3" href="$structharc_1_1parser_1_1Parse__tree__node.html" title=" " alt="" coords="5,211,139,253"/>
+<area shape="rect" id="node4" href="$structharc_1_1parser_1_1Resolved__identifier.html" title=" " alt="" coords="819,89,973,130"/>
+<area shape="rect" id="node5" href="$structharc_1_1parser_1_1Text.html" title=" " alt="" coords="589,157,713,184"/>
+<area shape="rect" id="node6" href="$structharc_1_1parser_1_1Attribute__list.html" title=" " alt="" coords="1284,283,1456,309"/>
+<area shape="rect" id="node7" href="$structharc_1_1parser_1_1Attribute__list__body.html" title=" " alt="" coords="1055,275,1203,317"/>
+<area shape="rect" id="node8" href="$structharc_1_1parser_1_1Attribute.html" title=" " alt="" coords="822,243,970,269"/>
+<area shape="rect" id="node10" href="$structharc_1_1parser_1_1Statement.html" title=" " alt="" coords="188,219,347,245"/>
+<area shape="rect" id="node9" href="$structharc_1_1parser_1_1Expression.html" title=" " alt="" coords="569,219,733,245"/>
+</map>

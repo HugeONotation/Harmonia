@@ -1,0 +1,9 @@
+<map id="harc::parser::Source_file" name="harc::parser::Source_file">
+<area shape="rect" id="node1" title=" " alt="" coords="1039,89,1203,116"/>
+<area shape="rect" id="node2" href="$structharc_1_1parser_1_1Parse__tree__node.html" title=" " alt="" coords="5,115,139,157"/>
+<area shape="rect" id="node3" href="$structharc_1_1parser_1_1Source__body__list.html" title=" " alt="" coords="451,82,591,123"/>
+<area shape="rect" id="node4" href="$structharc_1_1parser_1_1Source__body.html" title=" " alt="" coords="188,97,363,124"/>
+<area shape="rect" id="node5" href="$structharc_1_1parser_1_1Module__declaration.html" title=" " alt="" coords="732,194,873,235"/>
+<area shape="rect" id="node6" href="$structharc_1_1parser_1_1Resolved__identifier.html" title=" " alt="" coords="444,238,599,279"/>
+<area shape="rect" id="node7" href="$structharc_1_1parser_1_1Text.html" title=" " alt="" coords="213,249,337,276"/>
+</map>
